@@ -2,8 +2,8 @@
 
 ## Short description
 
-This code was created as a way to monitor their stocks purchased for investment purposes.\
-Ideally, the code is ran on a webserver, such as PythonAnywhere, and runs the script automatically when the stock market opens.
+This code was created as a way to monitor stocks purchased for investment purposes.\
+Ideally, the code is running on a webserver automatically when the stock market opens.
 
 ## Hidden elements
 - API Keys
